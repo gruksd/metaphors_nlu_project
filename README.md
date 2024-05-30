@@ -1,15 +1,15 @@
-#Metaphors and Language Models
+# Metaphors and Language Models
 
 Sofia Gruk, Annika Grützner-Zahn, Mitja Sainio
 
-#Task 1: Metaphor Paraphrase Classification
+# Task 1: Metaphor Paraphrase Classification
 Sofia Gruk
 
-##Results:
+## Results:
 
 
-#Task 2: Metaphor Paraphrase Generation
+# Task 2: Metaphor Paraphrase Generation
 Annika Grützner-Zahn
 
-#Task 3: Definition Modeling with Metaphors
+# Task 3: Definition Modeling with Metaphors
 Mitja Sainio
