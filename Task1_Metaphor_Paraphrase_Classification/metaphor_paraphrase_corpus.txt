@@ -9,7 +9,7 @@ She was sure she was living this fantasy romance and kept deluding herself
  she thought she was having a romantic story#1
  she wanted to buy a fantasy romance and kept deluding us#1
  she was sure she was living an romantic adventure and kept deluding herself#4
- she was sure she was reading a fantasy romance and kept deluding herself#1
+ she was sure she was reading a fantasy romance and kept deluding herself#2
 
 
 She was the light of my life. 
@@ -37,13 +37,13 @@ Success is a bastard as it has many father; failure is an orphan with no takers.
 While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.  
  While his one live leg made lively echoes along the deck every stroke of his dead limb sounded gloomy.#3
  While his one live leg made lively echoes along the deck every stroke of his dead limb was a coffin noise.#3
- While his one live leg made lively echoes along the deck every stroke of his dead limb was amusing.#2
+ While his one live leg made lively echoes along the deck every stroke of his dead limb was amusing.#1
  While his one live leg made lively echoes along the deck every stroke of his dead limb was ghastly.#3
 
 
 David’s eyes were like daggers at Paul when Paul invited his new girlfriend to dance. 
  David had two daggers when Paul invited his new girlfriend to dance.#1
- David looked at Paul in a sad way when Paul invited his new girlfriend to dance.#1
+ David looked at Paul in a sad way when Paul invited his new girlfriend to dance.#2
  David looked at Paul very angrily when Paul invited his new girlfriend to dance.#4
  When Paul invited his new girlfriend to dance  David looked at Paul angrily.#4
 
@@ -81,7 +81,7 @@ it is midnight now : all masks fall
  by midnight you have to return all the masks#1
  it is a bad time now and everything appears for what it is#3
  it is a dangerous moment : there are no excuses#3
- it is afternoon and we are having a party#1
+ it is afternoon and we are having a party#2
 
 an ancient anger exploded in his heart 
  an anger he had suppressed for a long time overwhelmed him#4
@@ -136,10 +136,10 @@ the wheels of justice turn slowly
  it can take a long time to see justice prevail on injustice#4
  it might take time but eventually justice prevails#4
  justice prevails in very little time#2
- the wheels of a car turn slowly#1
+ the wheels of a car turn slowly#2
 
 You were dying to believe in what you heard 
- When you were dying you did not believe in what you heard#1
+ When you were dying you did not believe in what you heard#2
  You liked what you heard so much  you just wanted to believe it#4
  You really wanted to believe in what you heard#4
  You thought what you heard was funny#1
@@ -156,14 +156,14 @@ then a colorful joy exploded in her chest
 we laid in fields of gold 
  we laid in fields of bright corn#3
  we laid in fields of corn#3
- we laid in fields of green grass#1
- we laid in fields of roses#1
+ we laid in fields of green grass#2
+ we laid in fields of roses#2
 
 
 we were sinking in an ocean of grass 
  we were completely surrounded by a large prairie#4
  we were in a very small prairie#2
- we were sinking in the ocean#1
+ we were sinking in the ocean#2
  we were surrounded by a vast quantity of grass#4
 
 
@@ -172,7 +172,7 @@ A break up can leave you with a broken heart.
  A break up can leave you with cardiac problems.#1
  A break up can make you feel good and happy.#2
  A break up can make you feel hurt and sad.#4
- A break up can make you feel like you are having a stroke.#1
+ A break up can make you feel like you are having a stroke.#2
 
 
 A golden sun shines high in the sky 
@@ -198,7 +198,7 @@ Adam did not understand the root of the crisis
 
 After letting off his rage he sat down like a lamb. 
  After letting off his rage he ran away.#2
- After letting off his rage he sat down in a nervous way.#1
+ After letting off his rage he sat down in a nervous way.#2
  After letting off his rage he sat down in an obedient way.#3
  After letting off his rage he sat down very mildly.#4
 
@@ -233,7 +233,7 @@ The faculty meeting was a real war
 
 And now they were leaking all kinds of documents 
  And now all kinds of documents were being disclosed#4
- And now they were burning all kinds of documents#1
+ And now they were burning all kinds of documents#2
  And now they were disclosing all kinds of documents#4
  And now they were hiding away all kinds of documents#2
 
@@ -242,7 +242,7 @@ As for Peleg he took it more like a philosopher.
  As for Peleg he responded calmly.#3
  As for Peleg he responded in a thoughtful way.#4
  As for Peleg himself he responded angrily.#2
- As for Peleg himself he was sad and he cried.#2
+ As for Peleg himself he was sad and he cried.#1
 
 
 By that time my friend was broken so he had to sell his house 
@@ -271,8 +271,8 @@ David is a worm for what he did to Shelia
 During the conflict the seeds of peace were planted. 
  During the conflict the first elements of a peace accord appeared.#4
  During the conflict the foundations of peace were visible.#3
- It was the end of the war.#1
- Janet was trying to start a conflict.#1
+ It was the end of the war.#2
+ Janet was trying to start a conflict.#2
 
 
 Each blade of grass was a bayonet pointed firmly at our bare feet 
@@ -290,15 +290,15 @@ Every person has bitter memories
 
 
 She was the light of my life.
- She was the life of my light.#1
+ She was the life of my light.#2
  When I was sad or in a bad mood she would always make me feel better.#4
  When it was dark I could see the road because she was shining and bright.#1
- she made it possible to see the road by night#2
+ she made it possible to see the road by night#1
 
 
 I demolished his argument 
  He had different arguments . I proceeded to show they were all flawed#3
- I demolished his house without listening to his arguments#1
+ I demolished his house without listening to his arguments#2
  I demonstrated that all his arguments were inconsistent#4
  I liked and supported his arguments#2
 
@@ -333,13 +333,13 @@ From its blue vase the rose of evening drops
 
 He always had an interest for the fruit of knowledge 
  He always had an interest for the benefits of knowledge#4
- He always had an interest for the origins of knowledge#1
+ He always had an interest for the origins of knowledge#2
  He always had an interest for the pineapple of knowledge#1
  He always had an interest for the ways knowledge can be practically used#3
 
 
 He attacked every weak point in my argument 
- He helped me improve my argument’s weak points#1
+ He helped me improve my argument’s weak points#2
  He ignored all the weak points in my argument#2
  He pointed out every weak point in my argument#4
  He was able to find and show every weak point in my argument#4
@@ -353,7 +353,7 @@ He drowned in a sea of grief.
 
 
 He felt a dark sexual desire 
- He felt a clear sexual desire#1
+ He felt a clear sexual desire#2
  He felt a sexual desire hard to interpret or define#2
  He felt an obscure and disquieting sexual desire#4
  He had a dark fear of sexual desire#1
@@ -376,7 +376,7 @@ He is grinning like an ape.
 
 He is in such a hurry he does not run  he flies 
  He is in such a hurry that he runs extremely fast#4
- He is in such a hurry that he walks#1
+ He is in such a hurry that he walks#2
  Since he is in a great hurry he goes as fast as he can#3
  he is in a real hurry so he goes by car#2
 
@@ -404,7 +404,7 @@ He lived in a state of deep terror
 
 He looked neither one way nor the other way but sat like a carved image. 
  He looked neither one way nor the other way but sat completely still.#4
- He looked neither one way nor the other way but sat nervously twitching and agitated.#2
+ He looked neither one way nor the other way but sat nervously twitching and agitated.#1
  He looked neither one way nor the other way but sat with scarcely a sign of active life.#3
  He sat completely still looking neither one way nor the other.#3
 
@@ -473,8 +473,8 @@ Here comes the fool with his foggy brain
 
 
 His condescending attitude made my blood boil. 
- His condescending attitude made me bleed.#1
- His condescending attitude made me enthusiastic.#2
+ His condescending attitude made me bleed.#2
+ His condescending attitude made me enthusiastic.#1
  His condescending attitude made me really angry.#4
  I got really angry at his condescending attitude.#4
 
@@ -482,7 +482,7 @@ His condescending attitude made my blood boil.
 His declarations sparked a fire in the community 
  His declarations caused distress in the community#3
  His declarations caused the community to have intense debates#3
- His declarations left the community unimpressed#2
+ His declarations left the community unimpressed#1
  The community generally ignored his declarations#2
 
 
@@ -490,7 +490,7 @@ His friend was very tall and he looked like a chess piece beside him.
  His friend was very tall and he looked fat beside him.#1
  His friend was very tall and he looked short beside him.#4
  His friend was very tall and he looked small beside him.#4
- His friend was very tall and he looked white beside him.#1
+ His friend was very tall and he looked white beside him.#2
 
 
 His purplish head was a skull under the moon. 
@@ -568,14 +568,14 @@ I was staring straight into the shining sun
 I've reached my boiling point. 
  I am boiling some water.#1
  I cannot stand this situation anymore.#4
- I enjoy this situation to a certain extent.#2
+ I enjoy this situation to a certain extent.#1
  the news got you angry.#3
 
 
 You were hanging yourself on someone else 's words 
  You were hanging yourself because of what someone else said#1
  You were happy with what someone else had said#2
- You were oblivious of what someone else had said#2
+ You were oblivious of what someone else had said#1
  You were ready to die for what someone else said#3
 
 
@@ -588,7 +588,7 @@ If you are drowning in a sea of minor problems you cannot focus on what matters
 
 In the worst of times we looked at hope  shining in the dark 
  Even in the most difficult times we were able to hope and look at the future#3
- In the worst of times we lost all hopes#1
+ In the worst of times we lost all hopes#2
  In the worst of times we still had hope#4
  In we worst of times we were tired and confused#1
 
@@ -596,14 +596,14 @@ In the worst of times we looked at hope  shining in the dark
 
 She was lost in her thoughts and memories 
  She payed little attentions to her memories and thoughts#2
- She was attentive and present to the conversation#1
+ She was attentive and present to the conversation#2
  She was distracted by her thoughts and memories#4
  She was thinking and intensely remembering#3
 
 
 It always rained in my life  he said 
  I always have bad things happening to me  he said#4
- I was always a true optimist  he said#2
+ I was always a true optimist  he said#1
  I was always happy in my life  he said#2
  I was very unlucky in my life  he said#4
 
@@ -612,13 +612,13 @@ It is sad to observe the fruits of ignorance.
  If is sad to observe the consequences of ignorance.#4
  It is sad to observe the apples of ignorance.#1
  It is sad to observe the effects of ignorance.#4
- It is sad to observe the origins of ignorance.#1
+ It is sad to observe the origins of ignorance.#2
 
 The faculty meeting was a circus 
- At the faculty meeting we watched a comedy show#1
+ At the faculty meeting we watched a comedy show#2
  The faculty meeting was embarassing#1
  The faculty meeting was ridiculous#4
- The faculty meeting was very interesting#1
+ The faculty meeting was very interesting#2
 
 
 Katie’s plan to get into college was a house of cards on a crooked table 

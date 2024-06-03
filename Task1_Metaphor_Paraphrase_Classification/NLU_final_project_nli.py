@@ -21,8 +21,6 @@ def test_data_f():
             if '#' in line:
                 hypothesis, label = line.rsplit('#', 1)
                 label = int(label)
-                if label == 4 or label == 3:
-                    new_label = 0
                 test_data.append([premise, hypothesis.strip()])
             else:
                 continue

@@ -5,7 +5,7 @@ She was ready to turn her hand and heart to anything that promised to yield safe
 She was sure she was living this fantasy romance and kept deluding herself#she thought she was having a romantic story#1
 She was sure she was living this fantasy romance and kept deluding herself#she wanted to buy a fantasy romance and kept deluding us#1
 She was sure she was living this fantasy romance and kept deluding herself#she was sure she was living an romantic adventure and kept deluding herself#0
-She was sure she was living this fantasy romance and kept deluding herself#she was sure she was reading a fantasy romance and kept deluding herself#1
+She was sure she was living this fantasy romance and kept deluding herself#she was sure she was reading a fantasy romance and kept deluding herself#2
 She was the light of my life.#She brought a melancholic feeling into my life.#2
 She was the light of my life.#She brought depression and dissatisfaction into my life.#2
 She was the light of my life.#She brought happiness and joy into my life.#0
@@ -20,10 +20,10 @@ Success is a bastard as it has many father; failure is an orphan with no takers.
 Success is a bastard as it has many father; failure is an orphan with no takers.#The bastard had success and the orphan met with failure.#1
 While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.#While his one live leg made lively echoes along the deck every stroke of his dead limb sounded gloomy.#0
 While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.#While his one live leg made lively echoes along the deck every stroke of his dead limb was a coffin noise.#0
-While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.#While his one live leg made lively echoes along the deck every stroke of his dead limb was amusing.#2
+While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.#While his one live leg made lively echoes along the deck every stroke of his dead limb was amusing.#1
 While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.#While his one live leg made lively echoes along the deck every stroke of his dead limb was ghastly.#0
 Davidâ€™s eyes were like daggers at Paul when Paul invited his new girlfriend to dance.#David had two daggers when Paul invited his new girlfriend to dance.#1
-Davidâ€™s eyes were like daggers at Paul when Paul invited his new girlfriend to dance.#David looked at Paul in a sad way when Paul invited his new girlfriend to dance.#1
+Davidâ€™s eyes were like daggers at Paul when Paul invited his new girlfriend to dance.#David looked at Paul in a sad way when Paul invited his new girlfriend to dance.#2
 Davidâ€™s eyes were like daggers at Paul when Paul invited his new girlfriend to dance.#David looked at Paul very angrily when Paul invited his new girlfriend to dance.#0
 Davidâ€™s eyes were like daggers at Paul when Paul invited his new girlfriend to dance.#When Paul invited his new girlfriend to dance  David looked at Paul angrily.#0
 Don't mention Tom 's promotion to Mike as it would be a red flag to a bull.#Don't mention Tom 's promotion to Mike as It won't make him happy.#0
@@ -45,7 +45,7 @@ her smile was a blinding sun#her smile was wonderful and fulfilling to see#0
 it is midnight now : all masks fall#by midnight you have to return all the masks#1
 it is midnight now : all masks fall#it is a bad time now and everything appears for what it is#0
 it is midnight now : all masks fall#it is a dangerous moment : there are no excuses#0
-it is midnight now : all masks fall#it is afternoon and we are having a party#1
+it is midnight now : all masks fall#it is afternoon and we are having a party#2
 an ancient anger exploded in his heart#an anger he had suppressed for a long time overwhelmed him#0
 an ancient anger exploded in his heart#he was overwhelmed by an anger he had suppressed for a long time#0
 an ancient anger exploded in his heart#his ancient anger disappeared and he was happy#2
@@ -77,8 +77,8 @@ the flowers danced in the wind#the wind danced in the flowers#1
 the wheels of justice turn slowly#it can take a long time to see justice prevail on injustice#0
 the wheels of justice turn slowly#it might take time but eventually justice prevails#0
 the wheels of justice turn slowly#justice prevails in very little time#2
-the wheels of justice turn slowly#the wheels of a car turn slowly#1
-You were dying to believe in what you heard#When you were dying you did not believe in what you heard#1
+the wheels of justice turn slowly#the wheels of a car turn slowly#2
+You were dying to believe in what you heard#When you were dying you did not believe in what you heard#2
 You were dying to believe in what you heard#You liked what you heard so much  you just wanted to believe it#0
 You were dying to believe in what you heard#You really wanted to believe in what you heard#0
 You were dying to believe in what you heard#You thought what you heard was funny#1
@@ -88,16 +88,16 @@ then a colorful joy exploded in her chest#then she felt down and depressed#2
 then a colorful joy exploded in her chest#then she was very joyous all of a sudden#0
 we laid in fields of gold#we laid in fields of bright corn#0
 we laid in fields of gold#we laid in fields of corn#0
-we laid in fields of gold#we laid in fields of green grass#1
-we laid in fields of gold#we laid in fields of roses#1
+we laid in fields of gold#we laid in fields of green grass#2
+we laid in fields of gold#we laid in fields of roses#2
 we were sinking in an ocean of grass#we were completely surrounded by a large prairie#0
 we were sinking in an ocean of grass#we were in a very small prairie#2
-we were sinking in an ocean of grass#we were sinking in the ocean#1
+we were sinking in an ocean of grass#we were sinking in the ocean#2
 we were sinking in an ocean of grass#we were surrounded by a vast quantity of grass#0
 A break up can leave you with a broken heart.#A break up can leave you with cardiac problems.#1
 A break up can leave you with a broken heart.#A break up can make you feel good and happy.#2
 A break up can leave you with a broken heart.#A break up can make you feel hurt and sad.#0
-A break up can leave you with a broken heart.#A break up can make you feel like you are having a stroke.#1
+A break up can leave you with a broken heart.#A break up can make you feel like you are having a stroke.#2
 A golden sun shines high in the sky#a black sun shines high in the sky#2
 A golden sun shines high in the sky#a very bright sun shines high in the sky#0
 A golden sun shines high in the sky#a very expensive sun shines high in the sky#1
@@ -111,7 +111,7 @@ Adam did not understand the root of the crisis#Adam did not understand the reaso
 Adam did not understand the root of the crisis#Adam did not understand the solution to the crisis#1
 Adam did not understand the root of the crisis#the reasons of the crisis were not understood by Adam#0
 After letting off his rage he sat down like a lamb.#After letting off his rage he ran away.#2
-After letting off his rage he sat down like a lamb.#After letting off his rage he sat down in a nervous way.#1
+After letting off his rage he sat down like a lamb.#After letting off his rage he sat down in a nervous way.#2
 After letting off his rage he sat down like a lamb.#After letting off his rage he sat down in an obedient way.#0
 After letting off his rage he sat down like a lamb.#After letting off his rage he sat down very mildly.#0
 After working two years for the company she was burned out#After working two years for the company she was exhausted  stressed and depleted#0
@@ -131,13 +131,13 @@ The faculty meeting was a real war#The faculty meeting was highly aggressive#0
 The faculty meeting was a real war#The faculty meeting was ridiculous#0
 The faculty meeting was a real war#The faculty meeting was very difficult and emotional#0
 And now they were leaking all kinds of documents#And now all kinds of documents were being disclosed#0
-And now they were leaking all kinds of documents#And now they were burning all kinds of documents#1
+And now they were leaking all kinds of documents#And now they were burning all kinds of documents#2
 And now they were leaking all kinds of documents#And now they were disclosing all kinds of documents#0
 And now they were leaking all kinds of documents#And now they were hiding away all kinds of documents#2
 As for Peleg he took it more like a philosopher.#As for Peleg he responded calmly.#0
 As for Peleg he took it more like a philosopher.#As for Peleg he responded in a thoughtful way.#0
 As for Peleg he took it more like a philosopher.#As for Peleg himself he responded angrily.#2
-As for Peleg he took it more like a philosopher.#As for Peleg himself he was sad and he cried.#2
+As for Peleg he took it more like a philosopher.#As for Peleg himself he was sad and he cried.#1
 By that time my friend was broken so he had to sell his house#By that time my friend had a broken bone and he had to sell his house#1
 By that time my friend was broken so he had to sell his house#By that time my friend had no money so he had to sell his house#0
 By that time my friend was broken so he had to sell his house#By that time my friend was in a bad financial situation and he had to sell his house#0
@@ -152,8 +152,8 @@ David is a worm for what he did to Shelia#David lives underground for what he di
 David is a worm for what he did to Shelia#Given what he did to Shelia I have a low opinion of David#0
 During the conflict the seeds of peace were planted.#During the conflict the first elements of a peace accord appeared.#0
 During the conflict the seeds of peace were planted.#During the conflict the foundations of peace were visible.#0
-During the conflict the seeds of peace were planted.#It was the end of the war.#1
-During the conflict the seeds of peace were planted.#Janet was trying to start a conflict.#1
+During the conflict the seeds of peace were planted.#It was the end of the war.#2
+During the conflict the seeds of peace were planted.#Janet was trying to start a conflict.#2
 Each blade of grass was a bayonet pointed firmly at our bare feet#Each blade of grass was a was firmly stinging our bare feet#0
 Each blade of grass was a bayonet pointed firmly at our bare feet#Each blade of grass was soft under our bare feet#2
 Each blade of grass was a bayonet pointed firmly at our bare feet#Grass was very soft and we could walk bare feet#2
@@ -162,12 +162,12 @@ Every person has bitter memories#Every person can remember some sad life experie
 Every person has bitter memories#Every person has depressing or disturbing memories#0
 Every person has bitter memories#Every person has joyful memories#2
 Every person has bitter memories#Every person has sad memories#0
-She was the light of my life.#She was the life of my light.#1
+She was the light of my life.#She was the life of my light.#2
 She was the light of my life.#When I was sad or in a bad mood she would always make me feel better.#0
 She was the light of my life.#When it was dark I could see the road because she was shining and bright.#1
-She was the light of my life.#she made it possible to see the road by night#2
+She was the light of my life.#she made it possible to see the road by night#1
 I demolished his argument#He had different arguments . I proceeded to show they were all flawed#0
-I demolished his argument#I demolished his house without listening to his arguments#1
+I demolished his argument#I demolished his house without listening to his arguments#2
 I demolished his argument#I demonstrated that all his arguments were inconsistent#0
 I demolished his argument#I liked and supported his arguments#2
 Fear had changed him to a shaken jelly.#Fear made him shudder all over.#0
@@ -187,10 +187,10 @@ From its blue vase the rose of evening drops#she dropped the rose in a blue vase
 From its blue vase the rose of evening drops#the sunset gives clouds a rose nuance in the blue of the sky#0
 From its blue vase the rose of evening drops#the sunset makes green the clouds in the black sky#1
 He always had an interest for the fruit of knowledge#He always had an interest for the benefits of knowledge#0
-He always had an interest for the fruit of knowledge#He always had an interest for the origins of knowledge#1
+He always had an interest for the fruit of knowledge#He always had an interest for the origins of knowledge#2
 He always had an interest for the fruit of knowledge#He always had an interest for the pineapple of knowledge#1
 He always had an interest for the fruit of knowledge#He always had an interest for the ways knowledge can be practically used#0
-He attacked every weak point in my argument#He helped me improve my argumentâ€™s weak points#1
+He attacked every weak point in my argument#He helped me improve my argumentâ€™s weak points#2
 He attacked every weak point in my argument#He ignored all the weak points in my argument#2
 He attacked every weak point in my argument#He pointed out every weak point in my argument#0
 He attacked every weak point in my argument#He was able to find and show every weak point in my argument#0
@@ -198,7 +198,7 @@ He drowned in a sea of grief.#He was angry and depressed.#0
 He drowned in a sea of grief.#He was drowning in the sea.#1
 He drowned in a sea of grief.#He was extremely sad.#0
 He drowned in a sea of grief.#He was happy and jolly.#2
-He felt a dark sexual desire#He felt a clear sexual desire#1
+He felt a dark sexual desire#He felt a clear sexual desire#2
 He felt a dark sexual desire#He felt a sexual desire hard to interpret or define#2
 He felt a dark sexual desire#He felt an obscure and disquieting sexual desire#0
 He felt a dark sexual desire#He had a dark fear of sexual desire#1
@@ -211,7 +211,7 @@ He is grinning like an ape.#He is grinning in a stupid manner.#0
 He is grinning like an ape.#He is smiling in a beastly way.#0
 He is grinning like an ape.#He is smiling in a charming way.#1
 He is in such a hurry he does not run  he flies#He is in such a hurry that he runs extremely fast#0
-He is in such a hurry he does not run  he flies#He is in such a hurry that he walks#1
+He is in such a hurry he does not run  he flies#He is in such a hurry that he walks#2
 He is in such a hurry he does not run  he flies#Since he is in a great hurry he goes as fast as he can#0
 He is in such a hurry he does not run  he flies#he is in a real hurry so he goes by car#2
 He is the apple of my eye.#He has an apple and an eye.#1
@@ -227,7 +227,7 @@ He lived in a state of deep terror#He lived in a state of intense terror#0
 He lived in a state of deep terror#He lived in a state of mild discomfort#2
 He lived in a state of deep terror#He lived in a state of subtle fear#2
 He looked neither one way nor the other way but sat like a carved image.#He looked neither one way nor the other way but sat completely still.#0
-He looked neither one way nor the other way but sat like a carved image.#He looked neither one way nor the other way but sat nervously twitching and agitated.#2
+He looked neither one way nor the other way but sat like a carved image.#He looked neither one way nor the other way but sat nervously twitching and agitated.#1
 He looked neither one way nor the other way but sat like a carved image.#He looked neither one way nor the other way but sat with scarcely a sign of active life.#0
 He looked neither one way nor the other way but sat like a carved image.#He sat completely still looking neither one way nor the other.#0
 He pleaded for her forgiveness but Janet was a statue#He implored her to forgive him but Janet remained indifferent to his pleads#0
@@ -266,18 +266,18 @@ Here comes the fool with his foggy brain#Here comes the fool with his brilliant 
 Here comes the fool with his foggy brain#Here comes the fool with his clear vision#2
 Here comes the fool with his foggy brain#Here comes the fool with his confused mind#0
 Here comes the fool with his foggy brain#Here comes the fool with his damaged mind#0
-His condescending attitude made my blood boil.#His condescending attitude made me bleed.#1
-His condescending attitude made my blood boil.#His condescending attitude made me enthusiastic.#2
+His condescending attitude made my blood boil.#His condescending attitude made me bleed.#2
+His condescending attitude made my blood boil.#His condescending attitude made me enthusiastic.#1
 His condescending attitude made my blood boil.#His condescending attitude made me really angry.#0
 His condescending attitude made my blood boil.#I got really angry at his condescending attitude.#0
 His declarations sparked a fire in the community#His declarations caused distress in the community#0
 His declarations sparked a fire in the community#His declarations caused the community to have intense debates#0
-His declarations sparked a fire in the community#His declarations left the community unimpressed#2
+His declarations sparked a fire in the community#His declarations left the community unimpressed#1
 His declarations sparked a fire in the community#The community generally ignored his declarations#2
 His friend was very tall and he looked like a chess piece beside him.#His friend was very tall and he looked fat beside him.#1
 His friend was very tall and he looked like a chess piece beside him.#His friend was very tall and he looked short beside him.#0
 His friend was very tall and he looked like a chess piece beside him.#His friend was very tall and he looked small beside him.#0
-His friend was very tall and he looked like a chess piece beside him.#His friend was very tall and he looked white beside him.#1
+His friend was very tall and he looked like a chess piece beside him.#His friend was very tall and he looked white beside him.#2
 His purplish head was a skull under the moon.#His head was bright under the moon.#0
 His purplish head was a skull under the moon.#His purplish head was bald and white under the moon.#0
 His purplish head was a skull under the moon.#His purplish head was black and hairy under the moon.#1
@@ -320,36 +320,36 @@ I was staring straight into the shining sun#I was facing something wonderful and
 I was staring straight into the shining sun#I was trying to study#1
 I've reached my boiling point.#I am boiling some water.#1
 I've reached my boiling point.#I cannot stand this situation anymore.#0
-I've reached my boiling point.#I enjoy this situation to a certain extent.#2
+I've reached my boiling point.#I enjoy this situation to a certain extent.#1
 I've reached my boiling point.#the news got you angry.#0
 You were hanging yourself on someone else 's words#You were hanging yourself because of what someone else said#1
 You were hanging yourself on someone else 's words#You were happy with what someone else had said#2
-You were hanging yourself on someone else 's words#You were oblivious of what someone else had said#2
+You were hanging yourself on someone else 's words#You were oblivious of what someone else had said#1
 You were hanging yourself on someone else 's words#You were ready to die for what someone else said#0
 If you are drowning in a sea of minor problems you cannot focus on what matters#If you drown in the sea  then you have a problem#1
 If you are drowning in a sea of minor problems you cannot focus on what matters#If you have a high number of minor problems you cannot focus on what matters#0
 If you are drowning in a sea of minor problems you cannot focus on what matters#If you have very little problems you cannot focus on what matters#2
 If you are drowning in a sea of minor problems you cannot focus on what matters#If you let a large number of minor problems overwhelm you you cannot focus on what matters#0
 In the worst of times we looked at hope  shining in the dark#Even in the most difficult times we were able to hope and look at the future#0
-In the worst of times we looked at hope  shining in the dark#In the worst of times we lost all hopes#1
+In the worst of times we looked at hope  shining in the dark#In the worst of times we lost all hopes#2
 In the worst of times we looked at hope  shining in the dark#In the worst of times we still had hope#0
 In the worst of times we looked at hope  shining in the dark#In we worst of times we were tired and confused#1
 She was lost in her thoughts and memories#She payed little attentions to her memories and thoughts#2
-She was lost in her thoughts and memories#She was attentive and present to the conversation#1
+She was lost in her thoughts and memories#She was attentive and present to the conversation#2
 She was lost in her thoughts and memories#She was distracted by her thoughts and memories#0
 She was lost in her thoughts and memories#She was thinking and intensely remembering#0
 It always rained in my life  he said#I always have bad things happening to me  he said#0
-It always rained in my life  he said#I was always a true optimist  he said#2
+It always rained in my life  he said#I was always a true optimist  he said#1
 It always rained in my life  he said#I was always happy in my life  he said#2
 It always rained in my life  he said#I was very unlucky in my life  he said#0
 It is sad to observe the fruits of ignorance.#If is sad to observe the consequences of ignorance.#0
 It is sad to observe the fruits of ignorance.#It is sad to observe the apples of ignorance.#1
 It is sad to observe the fruits of ignorance.#It is sad to observe the effects of ignorance.#0
-It is sad to observe the fruits of ignorance.#It is sad to observe the origins of ignorance.#1
-The faculty meeting was a circus#At the faculty meeting we watched a comedy show#1
+It is sad to observe the fruits of ignorance.#It is sad to observe the origins of ignorance.#2
+The faculty meeting was a circus#At the faculty meeting we watched a comedy show#2
 The faculty meeting was a circus#The faculty meeting was embarassing#1
 The faculty meeting was a circus#The faculty meeting was ridiculous#0
-The faculty meeting was a circus#The faculty meeting was very interesting#1
+The faculty meeting was a circus#The faculty meeting was very interesting#2
 Katieâ€™s plan to get into college was a house of cards on a crooked table#Katieâ€™s college was a house of cards on a crooked table#1
 Katieâ€™s plan to get into college was a house of cards on a crooked table#Katieâ€™s plan to get into college had very little chances to become a reality#0
 Katieâ€™s plan to get into college was a house of cards on a crooked table#Katieâ€™s plan to get into college was hopeless and based on wishful thinking#0
