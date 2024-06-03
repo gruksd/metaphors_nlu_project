@@ -18,9 +18,11 @@ for block in blocks:
             hypothesis, label = line.rsplit('#', 1)
             label = int(label)
             if label == 4 or label == 3: 
-                label = 0 #entailment
-            result_data.append([premise, hypothesis.strip(), label])
+                new_label = 0 #paraphrase
+            if label == 2 or label == 1:
+                 new_label = 1 #nonparaphrase
+            result_data.append([premise, hypothesis.strip(), new_label])
 
-with open("test_suit.txt", 'w', encoding='utf-8') as file:
+with open("test_suit_paraphrase_0_1.txt", 'w', encoding='utf-8') as file:
         for premise, hypothesis, label in result_data:
             file.write(f"{premise}#{hypothesis}#{label}\n")

@@ -19,6 +19,8 @@ def accuracy_f(true_labels_file, predicted_labels_file):
         print("We are missing some labels:", len(predicted_labels), "/", len(true_labels))
 
 true_labels_file = 'test_suit.txt'
-output_files = ['output_file.txt', "output_file_klue_roberta.txt", "output_file_large_roberta.txt"]
+output_files = ['output_file_nli_t5.txt', 
+                "output_file_nli_large_roberta.txt", "output_file_nli_multi_bert.txt", 
+                "output_file_nli_large_bart.txt"]
 for file in output_files:
     accuracy_f(true_labels_file, file)
