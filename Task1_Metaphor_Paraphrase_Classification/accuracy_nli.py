@@ -20,7 +20,8 @@ def accuracy_f(true_labels_file, predicted_labels_file):
 
 true_labels_file = 'test_suit.txt'
 output_files = ['output_file_nli_t5.txt', 
-                "output_file_nli_large_roberta.txt", "output_file_nli_multi_bert.txt", 
-                "output_file_nli_large_bart.txt"]
+                "output_file_nli_large_roberta.txt",
+                "output_file_nli_large_bart.txt", 
+                "output_file_nli_debiased_bert.txt"]
 for file in output_files:
     accuracy_f(true_labels_file, file)

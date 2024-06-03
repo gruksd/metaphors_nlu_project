@@ -58,15 +58,6 @@ def nli_large_roberta(test_data):
                 result = classify_nli(tokenizer, model, premise, hypothesis)
                 file.write(f"{premise}#{hypothesis}#{result}\n")
 
-def nli_multi_bert(test_data):
-    tokenizer = AutoTokenizer.from_pretrained("TFLai/Bert-Multilingual-NLI")
-    model = AutoModelForSequenceClassification.from_pretrained("TFLai/Bert-Multilingual-NLI")
-
-    with open("output_file_nli_multi_bert.txt", 'w', encoding='utf-8') as file:
-            for premise, hypothesis in test_data:
-                result = classify_nli(tokenizer, model, premise, hypothesis)
-                file.write(f"{premise}#{hypothesis}#{result}\n")
-
 
 def nli_large_bart(test_data):
     tokenizer = AutoTokenizer.from_pretrained("ynie/bart-large-snli_mnli_fever_anli_R1_R2_R3-nli")
@@ -77,9 +68,18 @@ def nli_large_bart(test_data):
                 result = classify_nli(tokenizer, model, premise, hypothesis)
                 file.write(f"{premise}#{hypothesis}#{result}\n")
 
+def nli_debiased_bert(test_data):
+    tokenizer = AutoTokenizer.from_pretrained("tomhosking/bert-base-uncased-debiased-nli")
+    model = AutoModelForSequenceClassification.from_pretrained("tomhosking/bert-base-uncased-debiased-nli")
+
+    with open("output_file_nli_debiased_bert.txt", 'w', encoding='utf-8') as file:
+            for premise, hypothesis in test_data:
+                result = classify_nli(tokenizer, model, premise, hypothesis)
+                file.write(f"{premise}#{hypothesis}#{result}\n")
+
 
 test_data = test_data_f()
-nli_t5_test(test_data)
-nli_large_roberta(test_data)
-nli_multi_bert(test_data)
+#nli_t5_test(test_data)
+#nli_large_roberta(test_data)
 nli_large_bart(test_data)
+nli_debiased_bert(test_data)
