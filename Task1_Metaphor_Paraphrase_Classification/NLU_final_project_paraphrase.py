@@ -28,10 +28,7 @@ def test_data_f():
 
 
 
-def process_pair(sentence1, sentence2):
-    tokenizer = AutoTokenizer.from_pretrained("Prompsit/paraphrase-bert-en")
-    model = AutoModelForSequenceClassification.from_pretrained("Prompsit/paraphrase-bert-en")
-
+def process_pair(tokenizer, model, sentence1, sentence2):
     softmax = torch.nn.Softmax(dim=1)
     inputs = tokenizer(sentence1, sentence2, return_tensors='pt')
     logits = model(**inputs).logits
@@ -41,10 +38,21 @@ def process_pair(sentence1, sentence2):
 
 
 def para_bert(test_data):
+    tokenizer = AutoTokenizer.from_pretrained("Prompsit/paraphrase-bert-en")
+    model = AutoModelForSequenceClassification.from_pretrained("Prompsit/paraphrase-bert-en")
     with open("output_file_para_bert.txt", 'w') as f:
         for premise, hypothesis in test_data:
-            label = process_pair(premise, hypothesis)
+            label = process_pair(tokenizer, model, premise, hypothesis)
+            f.write(f"{premise}#{hypothesis}#{label}\n")
+
+def para_t5(test_data):
+    tokenizer = AutoTokenizer.from_pretrained("ihgn/Paraphrase-Detection-T5")
+    model = AutoModelForSequenceClassification.from_pretrained("ihgn/Paraphrase-Detection-T5")
+    with open("output_file_para_t5.txt", 'w') as f:
+        for premise, hypothesis in test_data:
+            label = process_pair(tokenizer, model, premise, hypothesis)
             f.write(f"{premise}#{hypothesis}#{label}\n")
 
 test_data = test_data_f()
-para_bert(test_data)
+#para_bert(test_data)
+para_t5(test_data)
