@@ -1,4 +1,6 @@
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
+
+import torch
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 def test_data_f():
     with open('metaphor_paraphrase_corpus.txt', 'r') as file:
@@ -25,19 +27,24 @@ def test_data_f():
     return test_data
 
 
-model_name = "Prompsit/paraphrase-bert-en"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
-paraphrase_detector = pipeline("text-classification", model=model, tokenizer=tokenizer)
+def process_pair(sentence1, sentence2):
+    tokenizer = AutoTokenizer.from_pretrained("Prompsit/paraphrase-bert-en")
+    model = AutoModelForSequenceClassification.from_pretrained("Prompsit/paraphrase-bert-en")
 
-def is_paraphrase(sentence1, sentence2):
-    result = paraphrase_detector(f"[CLS] {sentence1} [SEP] {sentence2} [SEP]")
-    label = result[0]['label']
-    score = result[0]['score']
-    print(result, label, score)
+    softmax = torch.nn.Softmax(dim=1)
+    inputs = tokenizer(sentence1, sentence2, return_tensors='pt')
+    logits = model(**inputs).logits
+    probs = softmax(logits)
+    label = torch.argmax(probs, dim=1).item()  
+    return label
 
-test_sentence1 = "The quick brown fox jumps over the lazy dog."
-test_sentence2 = "A fast, dark-colored fox leaps over a sleepy dog."
 
-is_paraphrase(test_sentence1, test_sentence2)
+def para_bert(test_data):
+    with open("output_file_para_bert.txt", 'w') as f:
+        for premise, hypothesis in test_data:
+            label = process_pair(premise, hypothesis)
+            f.write(f"{premise}#{hypothesis}#{label}\n")
+
+test_data = test_data_f()
+para_bert(test_data)
