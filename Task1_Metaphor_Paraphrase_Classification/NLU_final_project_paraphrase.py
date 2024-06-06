@@ -1,6 +1,7 @@
-
 import torch
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from transformers import AutoTokenizer, T5ForSequenceClassification, AutoModelForSequenceClassification
+
+from datasets import load_dataset
 
 def test_data_f():
     with open('metaphor_paraphrase_corpus.txt', 'r') as file:
@@ -46,13 +47,22 @@ def para_bert(test_data):
             f.write(f"{premise}#{hypothesis}#{label}\n")
 
 def para_t5(test_data):
-    tokenizer = AutoTokenizer.from_pretrained("ihgn/Paraphrase-Detection-T5")
-    model = AutoModelForSequenceClassification.from_pretrained("ihgn/Paraphrase-Detection-T5")
+    tokenizer = AutoTokenizer.from_pretrained("./trained_model")
+    model = T5ForSequenceClassification.from_pretrained("./trained_model")
     with open("output_file_para_t5.txt", 'w') as f:
         for premise, hypothesis in test_data:
             label = process_pair(tokenizer, model, premise, hypothesis)
             f.write(f"{premise}#{hypothesis}#{label}\n")
 
+def para_roberta(test_data):
+    tokenizer = AutoTokenizer.from_pretrained("chitra/finetune-paraphrase-model")
+    model = AutoModelForSequenceClassification.from_pretrained("chitra/finetune-paraphrase-model")
+    with open("output_file_para_roberta.txt", 'w') as f:
+        for premise, hypothesis in test_data:
+            label = process_pair(tokenizer, model, premise, hypothesis)
+            f.write(f"{premise}#{hypothesis}#{label}\n")
+
 test_data = test_data_f()
-#para_bert(test_data)
-para_t5(test_data)
+para_bert(test_data)
+#para_t5(test_data)
+para_roberta(test_data)
