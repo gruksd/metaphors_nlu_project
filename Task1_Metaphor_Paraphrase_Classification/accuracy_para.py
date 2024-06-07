@@ -18,8 +18,8 @@ def accuracy_f(true_labels_file, predicted_labels_file):
     else:
         print("We are missing some labels:", len(predicted_labels), "/", len(true_labels))
 
-true_labels_file = 'test_suit_paraphrase_1_0.txt'
-output_files = ["output_file_para_bert.txt", "output_file_para_t5.txt"]
+true_labels_file = 'test_suit_paraphrase_1_0.txt' # 1 = paraphrase, 0 = nonparaphrase
+output_files = ["output_file_para_bert.txt", "output_file_para_t5.txt", "output_file_para_roberta_changed_labels.txt"]
 for file in output_files:
     accuracy_f(true_labels_file, file)
 
@@ -34,7 +34,7 @@ def accuracy_f_01(true_labels_file, predicted_labels_file):
     else:
         print("We are missing some labels:", len(predicted_labels), "/", len(true_labels))
 
-true_labels_file = 'test_suit_paraphrase_0_1.txt'
+true_labels_file = 'test_suit_paraphrase_0_1.txt' # 0 = paraphrase, 1 = nonparaphrase
 output_files = ["output_file_para_roberta.txt"]
 for file in output_files:
     accuracy_f_01(true_labels_file, file)

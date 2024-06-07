@@ -29,7 +29,7 @@ for key, true_label in true_labels.items():
 
 output_file = 'incorrect_predictions_nli.txt'
 
-with open(output_file, 'w') as f:
+with open(output_file, 'w', encoding='utf-8') as f:
     for key, (true_label, pred_labels) in incorrect_predictions.items():
         f.write(f"{key}#{true_label}#{'#'.join(pred_labels)}\n")
 
