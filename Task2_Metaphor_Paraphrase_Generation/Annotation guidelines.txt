@@ -8,7 +8,8 @@ Task fail:
 * Used the same word, no paraphrase --> annotate 0c
 
 Paraphrased:
-* Paraphrased word in a literal sense --> annotate 1
+* Paraphrased word in a literal sense --> annotate 1a
+* Paraphrased word with a word in the right domain --> annotate 1b
 * Paraphrased word in a metaphorical sense, but wrong --> annotate 2
 * Paraphrased word in a metaphorical sense and similar to the human annotators --> annotate 3a
 * Paraphrased word in a metaphorical sense and exactly as one of the human annotators --> annotate 3b
