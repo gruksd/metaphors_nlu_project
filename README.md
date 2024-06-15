@@ -11,5 +11,5 @@ Sofia Gruk
 # Task 2: Metaphor Paraphrase Generation
 Annika Grützner-Zahn
 
-# Task 3: Definition Modeling with Metaphors
+# Task 3: Definition Modeling with Metaphorically Used Words
 Mitja Sainio
