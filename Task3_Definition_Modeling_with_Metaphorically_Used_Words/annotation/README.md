@@ -1,6 +1,6 @@
 # Task 3 annotation instructions
 
-In the directory `annotation/data` there are two `.tsv` files,
+In the `data` directory there are two `.tsv` files,
 each containing 184 words and their definitions.
 Each row of each file contains one headword labeled `word`,
 three definition glosses for it, and an empty field labeled `more_similar`.
