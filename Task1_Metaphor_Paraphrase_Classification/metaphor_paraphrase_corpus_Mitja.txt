@@ -1286,10 +1286,10 @@ He communicated all his plans to us #2
 He kept us in a dark room #1
 
 here is no point in having these sad and pessimistic thoughts
-there is no point in having these red thoughts
-there is no point in having these dark thoughts
-there is no point in having these sunny thoughts
-there is no point in having these black thoughts
+there is no point in having these red thoughts #1
+there is no point in having these dark thoughts #0
+there is no point in having these sunny thoughts #2
+there is no point in having these black thoughts #0
 
 I think we should think about the roots of the problem 
 I think we should think about the consequences of the problem #2
