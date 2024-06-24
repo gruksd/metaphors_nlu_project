@@ -1109,13 +1109,6 @@ They were stirring excitement
  They were suffocating excitement#1
 
 
-This is a trap sentence 
- If you give a high score to this sentence you don’t get paid#1
- If you score this high I am sad#1
- This is not even semantically related#1
- You should not give this sentence a four#1
-
-
 Those galaxies were jellyfishes in the abyss of space. 
  Those galaxies had an alien look in outer space.#1
  Those galaxies hosted jellyfishes in the abyss of space.#1

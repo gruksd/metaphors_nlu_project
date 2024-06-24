@@ -1,4 +1,4 @@
-with open('metaphor_paraphrase_corpus_annotatedAnnika.txt', 'r') as file:
+with open('metaphor_paraphrase_corpus_Mitja.txt', 'r') as file:
     data = file.read().strip()
 
 blocks = data.split('\n\n')
@@ -21,6 +21,6 @@ for block in blocks:
                 label = 0 #entailment
             result_data.append([premise, hypothesis.strip(), label])
 
-with open("test_suit_annika.txt", 'w', encoding='utf-8') as file:
+with open("test_suit_Mitja.txt", 'w', encoding='utf-8') as file:
         for premise, hypothesis, label in result_data:
             file.write(f"{premise}#{hypothesis}#{label}\n")
