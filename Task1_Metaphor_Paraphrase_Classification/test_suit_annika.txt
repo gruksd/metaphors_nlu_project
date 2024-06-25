@@ -216,7 +216,7 @@ He is in such a hurry he does not run  he flies#Since he is in a great hurry he 
 He is in such a hurry he does not run  he flies#he is in a real hurry so he goes by car#2
 He is the apple of my eye.#He has an apple and an eye.#1
 He is the apple of my eye.#I hate him.#2
-He is the apple of my eye.#I hold him dear-#0
+He is the apple of my eye.#I hold him dear.#0
 He is the apple of my eye.#I love him.#0
 He knew how to write sweet words#He knew how to write Japanese words#1
 He knew how to write sweet words#He knew how to write agreeable words#0
@@ -655,7 +655,7 @@ When it rains in Tokyo the city becomes a sea of umbrellas.#When it rains in Tok
 When it rains in Tokyo the city becomes a sea of umbrellas.#When it rains in Tokyo the city becomes full of umbrellas.#0
 When it rains in Tokyo the city becomes a sea of umbrellas.#When it rains in Tokyo you won't find umbrellas in it.#2
 With the crisis the bubble exploded.#The situation changed dramatically with the crisis.#0
-With the crisis the bubble exploded.#With the crisi  the situation changed dramatically.#0
+With the crisis the bubble exploded.#With the crisis  the situation changed dramatically.#0
 With the crisis the bubble exploded.#With the crisis a bomb exploded.#1
 With the crisis the bubble exploded.#With the crisis everything stayed the same.#2
 You disagree ? Ok  shoot#If you disagree  then speak your mind#0
