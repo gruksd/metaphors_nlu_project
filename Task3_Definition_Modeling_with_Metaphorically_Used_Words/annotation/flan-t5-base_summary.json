@@ -1,0 +1,14 @@
+{
+    "annotator1":{
+        "metaphorical_gloss":115,
+        "literal_gloss":31
+    },
+    "annotator2":{
+        "metaphorical_gloss":106,
+        "literal_gloss":40
+    },
+    "annotator3":{
+        "metaphorical_gloss":120,
+        "literal_gloss":26
+    }
+}
