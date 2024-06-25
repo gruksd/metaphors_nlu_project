@@ -2,7 +2,7 @@ import os
 
 def load_data(file_path):
     data = {}
-    with open(file_path, 'r') as f:
+    with open(file_path, 'r', encoding= "utf-8") as f:
         for line in f:
             parts = line.strip().split('#')
             if len(parts) == 3:
@@ -11,7 +11,7 @@ def load_data(file_path):
                 data[key] = label
     return data
 
-true_labels_file = 'test_suit_nli.txt'
+true_labels_file = 'test_suit_annika.txt'
 predicted_files = ['output_file_nli_t5.txt', 
                 "output_file_nli_large_roberta.txt",
                 "output_file_nli_large_bart.txt", 

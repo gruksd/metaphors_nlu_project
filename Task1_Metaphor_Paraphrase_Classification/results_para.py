@@ -11,7 +11,7 @@ def load_data(file_path):
                 data[key] = label
     return data
 
-true_labels_file = 'test_suit_paraphrase_1_0.txt'
+true_labels_file = 'test_suit_paraphrase_1_0.txt' # 1 = paraphrase, 0 = nonparaphrase
 predicted_files = ["output_file_para_bert.txt", "output_file_para_t5.txt", "output_file_para_roberta_changed_labels.txt"]
 
 true_labels = load_data(true_labels_file)
