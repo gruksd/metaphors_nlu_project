@@ -1309,7 +1309,7 @@
         "pred":"To prevent ( somebody ) from having to do something.",
         "bleu_met":4.4568827607,
         "rougeL_met":10.0,
-        "bertF1_met":81.5382540226,
+        "bertF1_met":81.5382421017,
         "bleu_lit":2.8289458032,
         "rougeL_lit":8.3333333333,
         "bertF1_lit":75.4412591457,

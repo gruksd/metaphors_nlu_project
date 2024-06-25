@@ -1,4 +1,10 @@
 {
-    "literal":94,
-    "metaphorical":52
+    "literal":94.0,
+    "metaphorical":52.0,
+    "bleu_met":4.3853038073,
+    "rougeL_met":14.5293866969,
+    "bertF1_met":76.8432902555,
+    "bleu_lit":2.8714749098,
+    "rougeL_lit":10.7034775791,
+    "bertF1_lit":73.889152971
 }

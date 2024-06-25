@@ -746,7 +746,7 @@
     {
         "bleu_met":0.128915673,
         "rougeL_met":0.175,
-        "bertF1_met":0.5818617692,
+        "bertF1_met":0.581861324,
         "bleu_lit":0.1383482387,
         "rougeL_lit":0.1875,
         "bertF1_lit":0.5690190501

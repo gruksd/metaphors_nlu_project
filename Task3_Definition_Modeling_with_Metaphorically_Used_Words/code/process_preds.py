@@ -124,7 +124,13 @@ def main():
     data.to_json(f"./preds/scored/{output_name}_scored.json", indent=4,
         orient="records")
 
-    summary = data["selection"].value_counts()
+    summary = pd.concat(
+            [
+                data["selection"].value_counts(),
+                data[list(scores.columns)].mean(),
+                ]
+            )
+
     summary.to_json(f"./scores/{output_name}_summary.json", indent=4)
 
     scaled_df = pd.DataFrame(scaled_scores)
