@@ -2,7 +2,6 @@ import evaluate
 import nltk
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import minmax_scale
 import sys
 
 def compute_metrics(gloss_type: str, metrics: dict, preds, refs):
@@ -68,35 +67,6 @@ def get_scores(data, metrics):
 
     return pd.DataFrame(scores_total)
 
-def rescale_scores(data, score_cols):
-    scaled_scores = {}
-    for col in data.columns:
-        if col in score_cols:
-            scores = data[col].to_list()
-            scaled_scores[col] = minmax_scale(scores)
-    return scaled_scores
-
-def determine_selection(row, scaled_scores: dict):
-    scaled_met = {}
-    scaled_lit = {}
-    for key, val in scaled_scores.items():
-        if "met" in key:
-            scaled_met[key] = val[row.name]
-        elif "lit" in key:
-            scaled_lit[key] = val[row.name]
-        else:
-            raise ValueError
-
-    met_mean = np.mean(list(scaled_met.values()))
-    lit_mean = np.mean(list(scaled_lit.values()))
-
-    if met_mean > lit_mean:
-        return "metaphorical"
-    elif lit_mean > met_mean:
-        return "literal"
-    else:
-        return np.nan
-
 def main():
     datafile = sys.argv[1]
     output_name = datafile.split("/")[-1].split(".")[0]
@@ -113,29 +83,9 @@ def main():
     scores = get_scores(data, metrics)
 
     data = data.join(scores)
-    scaled_scores = rescale_scores(data, scores.columns)
-
-    data["selection"] = data.apply(
-            determine_selection,
-            axis=1,
-            scaled_scores=scaled_scores,
-            )
 
     data.to_json(f"./preds/scored/{output_name}_scored.json", indent=4,
         orient="records")
-
-    summary = pd.concat(
-            [
-                data["selection"].value_counts(),
-                data[list(scores.columns)].mean(),
-                ]
-            )
-
-    summary.to_json(f"./scores/{output_name}_summary.json", indent=4)
-
-    scaled_df = pd.DataFrame(scaled_scores)
-    scaled_df.to_json(f"./scores/{output_name}_scaled.json", indent=4,
-            orient="records")
 
 if __name__ == "__main__":
     main()
