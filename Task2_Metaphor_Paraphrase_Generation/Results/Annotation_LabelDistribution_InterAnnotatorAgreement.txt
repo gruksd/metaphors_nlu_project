@@ -1,0 +1,12 @@
+label distribution:
+Number of 0a labels: 0
+Number of 0b labels: 843
+Number of 0c labels: 1070
+Number of 1a labels: 211
+Number of 1b labels: 268
+Number of 2a labels: 43
+Number of 3a labels: 153
+Number of 3b labels: 172
+Number of all labels: 2760
+
+inter-annotator agreement (Fleiss Kappa): 0.7117010894917136

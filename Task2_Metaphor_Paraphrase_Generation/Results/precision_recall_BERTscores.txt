@@ -1,0 +1,8 @@
+Mean precision of the T5 model fine-tuned for 3 epochs on the paraphrase task: 0.9832018805544218
+Mean recall of the T5 model fine-tuned for 3 epochs on the paraphrase task: 0.9879816386802721
+Mean precision of the T5 model fine-tuned for 5 epochs on the paraphrase task: 0.9835224588605441
+Mean recall of the T5 model fine-tuned for 5 epochs on the paraphrase task: 0.9882208013843538
+Mean precision of the Bart model fine-tuned for 1 epoch on the paraphrase task: 0.9905952306802721
+Mean recall of the Bart model fine-tuned for 1 epoch on the paraphrase task: 0.9924205097312925
+Mean precision of the Bart model fine-tuned for 3 epochs on the paraphrase task: 0.989227054452381
+Mean recall of the Bart model fine-tuned for 3 epochs on the paraphrase task: 0.9921348346122449

@@ -1,0 +1,4 @@
+  Accuracy of the T5 model fine-tuned for 3 epochs on the paraphrase task: 0.022789115646258504
+Accuracy of the T5 model fine-tuned for 5 epochs on the paraphrase task: 0.025170068027210883
+Accuracy of the Bart model fine-tuned for 1 epoch on the paraphrase task: 0.015646258503401362
+Accuracy of the Bart model fine-tuned for 3 epochs on the paraphrase task: 0.019727891156462583

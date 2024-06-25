@@ -1,0 +1,4 @@
+Mean ChrF of the T5 model fine-tuned for 3 epochs on the paraphrase task: 10.492439891221087
+Mean ChrF of the T5 model fine-tuned for 5 epochs on the paraphrase task: 10.641689867809523
+Mean ChrF of the Bart model fine-tuned for 1 epoch on the paraphrase task: 10.056994701340136
+Mean ChrF of the Bart model fine-tuned for 3 epochs on the paraphrase task: 10.357111529027211
