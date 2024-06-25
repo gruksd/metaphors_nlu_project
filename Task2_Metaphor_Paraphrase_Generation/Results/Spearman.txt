@@ -1,0 +1,30 @@
+Between Loss and Recall (BERT scores):
+T5 E3: SignificanceResult(statistic=-0.2694188486109717, pvalue=4.573148653040442e-50)
+T5 E5: SignificanceResult(statistic=-0.273449528841106, pvalue=1.40218871510101e-51)
+Bart E1: SignificanceResult(statistic=-0.2003418529990492, pvalue=5.347197573003747e-28)
+Bart E3: SignificanceResult(statistic=-0.21800198197196158, pvalue=5.787792790433771e-33)
+Between Loss and Precision (BERT scores):
+T5 E3: SignificanceResult(statistic=-0.2746974991607683, pvalue=4.7095402743242265e-52)
+T5 E5: SignificanceResult(statistic=-0.2779670535381529, pvalue=2.628871884435868e-53)
+Bart E1: SignificanceResult(statistic=-0.20437435675715013, pvalue=4.3048239510475987e-29)
+Bart E3: SignificanceResult(statistic=-0.2202472107781192, pvalue=1.2551896193730424e-33)
+Between Loss and ChrF scores:
+T5 E3: SignificanceResult(statistic=-0.08488517999036876, pvalue=4.046348183868977e-06)
+T5 E5: SignificanceResult(statistic=-0.08974446912392624, pvalue=1.0943223442714694e-06)
+Bart E1: SignificanceResult(statistic=-0.02572622272314, pvalue=0.1631489114020837)
+Bart E3: SignificanceResult(statistic=-0.030828311181155758, pvalue=0.0946719393392278)
+Between Precision and Recall of BERT scores:
+T5 E3: SignificanceResult(statistic=0.9919142501783746, pvalue=0.0)
+T5 E5: SignificanceResult(statistic=0.9919599352404246, pvalue=0.0)
+Bart E1: SignificanceResult(statistic=0.9931722258927395, pvalue=0.0)
+Bart E3: SignificanceResult(statistic=0.9964170656462528, pvalue=0.0)
+Between Recall and ChrF scores:
+T5 E3: SignificanceResult(statistic=0.1062527578110715, pvalue=7.689985528606766e-09)
+T5 E5: SignificanceResult(statistic=0.10827758709652599, pvalue=3.960932209200312e-09)
+Bart E1: SignificanceResult(statistic=0.09514393002642116, pvalue=2.360988489839868e-07)
+Bart E3: SignificanceResult(statistic=0.06982090542474623, pvalue=0.00015136012500552954)
+Between Precision and ChrF scores:
+T5 E3: SignificanceResult(statistic=0.10709341852717719, pvalue=5.847132546121987e-09)
+T5 E5: SignificanceResult(statistic=0.10766965950275345, pvalue=4.840152144346868e-09)
+Bart E1: SignificanceResult(statistic=0.09724465915108761, pvalue=1.2704390223085007e-07)
+Bart E3: SignificanceResult(statistic=0.06875010576501514, pvalue=0.00019103840357669315)

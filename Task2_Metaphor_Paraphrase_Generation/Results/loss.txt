@@ -1,0 +1,4 @@
+Mean loss of the T5 model fine-tuned for 3 epochs on the paraphrase task: 4.731927565223129
+Mean loss of the T5 model fine-tuned for 5 epochs on the paraphrase task: 4.766336118156463
+Mean loss of the Bart model fine-tuned for 1 epoch on the paraphrase task: 4.481840335670068
+Mean loss of the Bart model fine-tuned for 3 epochs on the paraphrase task: 4.9048645171258505
