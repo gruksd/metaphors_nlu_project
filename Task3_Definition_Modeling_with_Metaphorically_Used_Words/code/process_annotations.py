@@ -1,4 +1,5 @@
 import argparse
+from collections import Counter
 import numpy as np
 import pandas as pd
 
@@ -14,6 +15,7 @@ def determine_selection(row):
     elif row["more_similar"] == "b":
         return b
     else:
+        print(row)
         return np.nan
 
 def process(df, annkey):
@@ -34,6 +36,12 @@ def join_annotations(annset1, annset2, annset3):
                     ]
                 )
     return pd.Series(annotations)
+
+def majority_vote(el):
+    if np.nan not in el:
+        return Counter(el).most_common(1)[0][0]
+    else:
+        return np.nan
 
 def main():
     parser = argparse.ArgumentParser()
@@ -57,17 +65,20 @@ def main():
     annset1 = process(anndata1, annkey)
     annset2 = process(anndata2, annkey)
     annset3 = process(anndata3, annkey)
+
+    annotations = join_annotations(annset1, annset2, annset3)
+    ground_truth = annotations.map(majority_vote)
     
     summary = pd.DataFrame(
             {
                 "annotator1": annset1["selection"].value_counts(),
                 "annotator2": annset2["selection"].value_counts(),
                 "annotator3": annset3["selection"].value_counts(),
+                "ground_truth": ground_truth.value_counts(),
                 }
             )
     summary.to_json(f"./annotation/{args.model}_summary.json", indent=4)
 
-    annotations = join_annotations(annset1, annset2, annset3)
     full_set = pd.DataFrame(
             {
                 "word": preds["word"],
@@ -76,6 +87,7 @@ def main():
                 "literal_gloss": preds["literal_gloss"],
                 "pred": preds["pred"],
                 "more_similar_to": annotations,
+                "ground_truth": ground_truth,
                 }
             )
     full_set.to_json(f"./annotation/{args.model}_full.json", indent=4,

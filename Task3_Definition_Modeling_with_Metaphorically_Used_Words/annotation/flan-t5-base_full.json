@@ -9,7 +9,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"face",
@@ -21,7 +22,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -33,7 +35,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"hear",
@@ -45,7 +48,8 @@
             "literal_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"illustrate",
@@ -57,7 +61,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"suggest",
@@ -69,7 +74,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"extend",
@@ -81,7 +87,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"bear",
@@ -93,7 +100,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -105,7 +113,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"contain",
@@ -117,7 +126,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -129,7 +139,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"join",
@@ -141,7 +152,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -153,7 +165,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"introduce",
@@ -165,7 +178,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"share",
@@ -177,7 +191,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"ask",
@@ -189,7 +204,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"fail",
@@ -201,7 +217,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"open",
@@ -213,7 +230,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -225,7 +243,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"evolve",
@@ -237,7 +256,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"link",
@@ -249,7 +269,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"bother",
@@ -261,7 +282,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"manage",
@@ -273,7 +295,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"contain",
@@ -285,7 +308,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"operate",
@@ -297,7 +321,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"introduce",
@@ -309,7 +334,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"share",
@@ -321,7 +347,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"operate",
@@ -333,7 +360,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"contain",
@@ -345,7 +373,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"enter",
@@ -357,7 +386,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -369,7 +399,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"face",
@@ -381,7 +412,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"acknowledge",
@@ -393,7 +425,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"admit",
@@ -405,7 +438,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"apply",
@@ -417,7 +451,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"operate",
@@ -429,7 +464,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"change",
@@ -441,7 +477,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"face",
@@ -453,7 +490,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"save",
@@ -465,7 +503,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"ask",
@@ -477,7 +516,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"apply",
@@ -489,7 +529,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -501,7 +542,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"bear",
@@ -513,7 +555,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"bear",
@@ -525,7 +568,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -537,7 +581,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"suggest",
@@ -549,7 +594,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"fail",
@@ -561,7 +607,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"impose",
@@ -573,7 +620,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"open",
@@ -585,7 +633,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"lead",
@@ -597,7 +646,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"suggest",
@@ -609,7 +659,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"manage",
@@ -621,7 +672,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"help",
@@ -633,7 +685,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -645,7 +698,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -657,7 +711,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -669,7 +724,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"admit",
@@ -681,7 +737,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -693,7 +750,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"help",
@@ -705,7 +763,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"need",
@@ -717,7 +776,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"admit",
@@ -729,7 +789,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"join",
@@ -741,7 +802,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"lead",
@@ -753,7 +815,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"face",
@@ -765,7 +828,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"ask",
@@ -777,7 +841,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"control",
@@ -789,7 +854,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"open",
@@ -801,7 +867,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"operate",
@@ -813,7 +880,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"respond",
@@ -825,7 +893,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -837,7 +906,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"open",
@@ -849,7 +919,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"introduce",
@@ -861,7 +932,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"address",
@@ -873,7 +945,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"introduce",
@@ -885,7 +958,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"feed",
@@ -897,7 +971,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"admit",
@@ -909,7 +984,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"control",
@@ -921,7 +997,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"share",
@@ -933,7 +1010,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"illustrate",
@@ -945,7 +1023,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -957,7 +1036,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"hear",
@@ -969,7 +1049,8 @@
             "literal_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"admit",
@@ -981,7 +1062,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"face",
@@ -993,7 +1075,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"refer",
@@ -1005,7 +1088,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"offer",
@@ -1017,7 +1101,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"offer",
@@ -1029,7 +1114,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"open",
@@ -1041,7 +1127,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -1053,7 +1140,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"suggest",
@@ -1065,7 +1153,8 @@
             "literal_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"lead",
@@ -1077,7 +1166,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"open",
@@ -1089,7 +1179,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"win",
@@ -1101,7 +1192,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"bear",
@@ -1113,7 +1205,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"save",
@@ -1125,7 +1218,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"open",
@@ -1137,7 +1231,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"struggle",
@@ -1149,7 +1244,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -1161,7 +1257,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"contain",
@@ -1173,7 +1270,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"evolve",
@@ -1185,7 +1283,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -1197,7 +1296,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"save",
@@ -1209,7 +1309,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"play",
@@ -1221,7 +1322,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"join",
@@ -1233,7 +1335,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"feed",
@@ -1245,7 +1348,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"join",
@@ -1257,7 +1361,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"face",
@@ -1269,7 +1374,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"join",
@@ -1281,7 +1387,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -1293,7 +1400,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -1305,7 +1413,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"suggest",
@@ -1317,7 +1426,8 @@
             "literal_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"refer",
@@ -1329,7 +1439,8 @@
             "literal_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"fail",
@@ -1341,7 +1452,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"illustrate",
@@ -1353,7 +1465,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"apply",
@@ -1365,7 +1478,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"address",
@@ -1377,7 +1491,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"introduce",
@@ -1389,7 +1504,8 @@
             "literal_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"reach",
@@ -1401,7 +1517,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -1413,7 +1530,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -1425,7 +1543,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -1437,7 +1556,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"admit",
@@ -1449,7 +1569,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"refer",
@@ -1461,7 +1582,8 @@
             "literal_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"open",
@@ -1473,7 +1595,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"save",
@@ -1485,7 +1608,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"admit",
@@ -1497,7 +1621,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"manage",
@@ -1509,7 +1634,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"join",
@@ -1521,7 +1647,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"help",
@@ -1533,7 +1660,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"reach",
@@ -1545,7 +1673,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -1557,7 +1686,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"suggest",
@@ -1569,7 +1699,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"escape",
@@ -1581,7 +1712,8 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"save",
@@ -1593,7 +1725,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"join",
@@ -1605,7 +1738,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"manage",
@@ -1617,7 +1751,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"refer",
@@ -1629,7 +1764,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"suggest",
@@ -1641,7 +1777,8 @@
             "literal_gloss",
             "literal_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"literal_gloss"
     },
     {
         "word":"share",
@@ -1653,7 +1790,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"win",
@@ -1665,7 +1803,8 @@
             "literal_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"refer",
@@ -1677,7 +1816,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"address",
@@ -1689,7 +1829,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"help",
@@ -1701,7 +1842,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"change",
@@ -1713,7 +1855,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"evolve",
@@ -1725,7 +1868,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "literal_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"expect",
@@ -1737,7 +1881,8 @@
             "metaphorical_gloss",
             "metaphorical_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     },
     {
         "word":"help",
@@ -1749,6 +1894,7 @@
             "metaphorical_gloss",
             "literal_gloss",
             "metaphorical_gloss"
-        ]
+        ],
+        "ground_truth":"metaphorical_gloss"
     }
 ]

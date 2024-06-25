@@ -10,5 +10,9 @@
     "annotator3":{
         "metaphorical_gloss":120,
         "literal_gloss":26
+    },
+    "ground_truth":{
+        "metaphorical_gloss":119,
+        "literal_gloss":27
     }
 }
